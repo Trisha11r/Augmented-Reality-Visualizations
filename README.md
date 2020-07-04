@@ -63,8 +63,8 @@ Normalized Average of (inspection count - critical restaurant count) for each mo
  We define the line chart score as a measure of how far the two trends in the line chart tend to be. If the score is high, that is, if both the trends are far apart from each other (generally), then the selected restaurants (if thought of as a single unit) are safe to be considered for buying food from.
 A high line chart score indicates that there have been lesser critical restaurants as compared to the number of inspections, which is a positive indication of the selected restaurants.
 A low line chart score indicates that the count of critical restaurants is almost the same as the number of inspections, which means that almost every inspection discovered a critical restaurant.
-Fig1. Interface depiction Using 3D Map with an option to choose from the boroughs
-Fig 2. Interface depiction with both the Map interface and the Trends coexisting along with brushing and linking when score threshold changed
+<img src = "Fig1.png" >
+<img src = "Fig2.png" >
   
 ### INSIGHTS
 
